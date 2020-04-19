@@ -5,7 +5,6 @@ output:
     keep_md: true
 ---
 
-
 ## Loading and preprocessing the data
 First we load the data from the file "activity.csv" and change the class of the 
 column date from factor to date. 
